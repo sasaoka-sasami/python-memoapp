@@ -1,0 +1,5 @@
+openapi: 3.0.0
+info:
+  title: webメモアプリAPI
+  description: webメモアプリのAPI仕様書
+  version: 3.0.0
