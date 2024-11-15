@@ -3,3 +3,6 @@ info:
   title: webメモアプリAPI
   description: webメモアプリのAPI仕様書
   version: 3.0.0
+
+servers:
+- url: http://127.0.0.1:5000
